@@ -110,7 +110,7 @@ ul a:hover {
     justify-content: flex-start;
     border: solid 5px rgb(92, 98, 155) hidden;
     padding: 0%;
-    position: relative;
+    position:-webkit-sticky ;
     margin-left: 5px;
     margin-right: 15px;
 }
