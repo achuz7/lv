@@ -8,6 +8,7 @@ body {
     padding: 0;
     background: url("best-programming_black.png") repeat fixed 100%;
     background-size: cover;
+    position:center;
     display: flex;
     flex-wrap: wrap;
     /* opacity: 20%; */
